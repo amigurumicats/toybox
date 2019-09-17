@@ -4,9 +4,9 @@
 
 
 ## wcl_each_lang.sh
-「お前は今まで書いたコードの行数を覚えているのか？」
-usage: `./wcl_each_lang.sh {dir}`
-ex. `./wcl_each_lang.sh .`
+「お前は今まで書いたコードの行数を覚えているのか？」  
+usage: `./wcl_each_lang.sh {dir}`  
+ex. `./wcl_each_lang.sh .`  
 指定したフォルダ以下の`*.py`とか`*.js`とかの総行数とかファイル数とかを数えて出力するシェルスクリプト。
 
 
