@@ -3,6 +3,10 @@
 下にいけばいくほど古い。  
 
 
+## shindanmaker_scraper.py
+診断メーカーの名前をランダムにしてその結果を取得するスクレイパー。診断メーカー謎用。
+
+
 ## wcl_each_lang.sh
 「お前は今まで書いたコードの行数を覚えているのか？」  
 usage: `./wcl_each_lang.sh {dir}`  
