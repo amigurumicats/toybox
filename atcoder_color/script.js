@@ -14,6 +14,7 @@ function color(n){
 var tbody = document.getElementById("history").children[1];
 for(row of tbody.rows){
   for(i of [3,4]){
+    if(row.cells[i].textContent == "-") continue;
     row.cells[i].style.backgroundColor = color(parseInt(row.cells[i].textContent))
   }
 }
